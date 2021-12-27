@@ -61,17 +61,6 @@ idiomas:
           url: /faq/
           peso: 20
 
-params:
-    env: produção   # para ativar o google analytics, opengraph, twitter-cards e esquema.
-    título: Stephany Nusch
-    descrição:  "Blog de tecnologia" 
-    palavras-chave: [Blog, Portfólio, ]
-    autor: Me
-    # autor: ["Eu", "Você"] # vários autores
-    imagens: ["<link ou caminho de imagem para opengraph, twitter-cards>"]
-    DateFormat:  "2 de janeiro de 2006" 
-    padrãoEleme: escuro   # escuro, luz
-    desativarThemeToggle: falso
 
     ShowReadingTime: verdadeiro
     ShowShareButtons: verdadeiro
