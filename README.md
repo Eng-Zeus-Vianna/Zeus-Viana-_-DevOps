@@ -15,8 +15,8 @@ idiomas:
     idiomaNo nome: Inglês
     peso: 10
     homeInfoParams:
-      Título:  "Oi lá \U0001F44B" 
-      Conteúdo: Meu nome é Stephany. Sou engenheiro de software brasileiro que mora em São Paulo 🇧🇷. Neste blog, você encontrará conteúdo sobre frontend, Javascript, carreira e outras coisas relacionadas à tecnologia.
+      Título:  "Hello" 
+      Conteúdo: Meu nome é Zeus. Sou Analista de Sistemas, brasileiro que mora em Lisboa POrtugal.
     menu:
       principal:
         - identificador: categorias
@@ -41,7 +41,7 @@ idiomas:
     peso: 20
     homeInfoParams:
       Título:  "Olá \U0001F44B" 
-      Conteúdo: Meu nome é Stephany. Sou uma engenheira de software brasileiro, morando em São Paulo 🇧🇷. Neste blog, você encontrará conteúdo sobre front-end, Javascript, carreira e outras coisas relacionadas à tecnologia.
+      Conteúdo: Meu nome é Zeus. Sou Analista de Sistemas, brasileiro que mora em Lisboa POrtugal.
     menu:
       principal:
         - identificador: categorias
@@ -65,7 +65,7 @@ params:
     env: produção   # para ativar o google analytics, opengraph, twitter-cards e esquema.
     título: Stephany Nusch
     descrição:  "Blog de tecnologia" 
-    palavras-chave: [Blog, Portfólio, PaperMod]
+    palavras-chave: [Blog, Portfólio, ]
     autor: Me
     # autor: ["Eu", "Você"] # vários autores
     imagens: ["<link ou caminho de imagem para opengraph, twitter-cards>"]
@@ -103,7 +103,7 @@ params:
     # modo perfil
     perfilMode:
         habilitado: falso   # precisa ser explicitamente definido
-        título: Stephany Nusch
+        título: Zeus Vianna
         legenda:  "Tech Blog" 
         imageUrl:  "<img localização>" 
         imageWidth: 120
@@ -119,14 +119,13 @@ params:
    
 
     socialIcons:
-        - nome: twitter
-          url:  "https://twitter.com/stephdotjs" 
+ 
         - nome: github
-          url:  "https://github.com/stebsnusch/" 
+          url:  "https://github.com/Eng-Zeus-Vianna" 
         - nome: linkedin
-          url:  "https://www.linkedin.com/in/stephanynusch/" 
+          url:  "https://www.linkedin.com/in/zeus--3b5480143/" 
         - nome: e-mail
-          url: mailto:contact@stebs.dev
+          url: zeus.devops@outlook.com
 
     #análises:
     #    google:
